@@ -1,6 +1,6 @@
 {
   "name": "clover-node",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple Node Frame",
   "main": "app.js",
   "scripts": {
@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "mongous": "0.2.4",
+    "bson":"",
+    "mongodb":""
   },
   "keywords": [
     "node"
